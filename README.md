@@ -93,3 +93,7 @@ location / {
     try_files $uri $uri/ /index.php?$query_string;
 }
 ```
+
+
+## SQL
+[링크](https://github.com/eightymountain/simple-php/wiki/SQL)
