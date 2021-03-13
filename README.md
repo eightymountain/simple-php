@@ -1,6 +1,12 @@
 # simple-php
 
-누가 이런 끔찍한 혼종을 만들어냈단 말인가!
+<small>modern php</small>
+
+MVC Pattern 같은 착각.
+
+
+
+라라벨 같은 경험을 주는 경량화된 프레임워크를 만들다보니..
 
 ![496435cd8e6b46269cf2d96b9e598103a752d18f](https://user-images.githubusercontent.com/45650509/110643775-cc559c80-81f7-11eb-97a0-318b06926a7a.jpg)
 
@@ -36,7 +42,7 @@
 
 ## 폴더, 파일 구조
 
-- `app` class로 작성된 php 코드(view 에서 사용)
+- `app` conotroller, router 등..
 
 - `asset` javascript, css, image
 
@@ -47,8 +53,6 @@
 - `pages` 사용자에게 제공되는 view
 
   - `layout` 공통으로 사용되는 view
-
-- `skel` 소스코드 기본 프레임
 
 - `vendor` 의존성 라이브러리
 
